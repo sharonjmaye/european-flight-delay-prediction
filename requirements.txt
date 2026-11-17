@@ -5,4 +5,4 @@ pyarrow>=23.0.1,<25.0.0
 numpy>=1.26.0,<3.0.0
 scikit-learn>=1.5,<2
 apache-beam[gcp]>=2.60,<3
-pytest>=8,<10i
+pytest>=8,<10
